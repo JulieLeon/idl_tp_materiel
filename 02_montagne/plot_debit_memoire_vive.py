@@ -1,7 +1,6 @@
-"""Trace la montagne mémoire à partir du CSV produit par ./mountain.
+"""Trace le débit de mémoire à partir du CSV produit par ./mountain.
 
-Usage: python3 plot_mountain.py mountain.csv
-Produit mountain_3d.png et mountain_stride1.png.
+Produit mountain_stride2.png.
 """
 import sys
 import csv
